@@ -104,7 +104,7 @@ Use these files to complete the implementation:
 - You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
 
   ```js
-  console.log(Math.floor(5.95)); // output: 5
+  console.log(Math.floor(5.95)) // output: 5
   ```
 
 - You can use the `background-position` CSS property to set the starting position of a background image
@@ -146,10 +146,3 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
